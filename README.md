@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anchal Singh
+# Hi 👋, I'm Anchal kumari
 
 🎓 MCA Student at Netaji Subhash Engineering College, Kolkata  
 💡 Passionate about Machine Learning & Data Science  
